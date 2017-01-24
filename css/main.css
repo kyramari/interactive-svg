@@ -1,0 +1,17 @@
+#bear:hover #left-ear {
+  transform: translateY(-10px);
+  transition: all .5s linear;
+}
+
+#bear:hover #right-ear {
+  transform: translateY(-10px);
+  transition: all .5s linear;
+}
+
+#eyes {
+  animation:
+}
+
+@keyframes {
+
+}
